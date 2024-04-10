@@ -1,0 +1,1 @@
+Deep in a forest, two fishes, silver and glittering are in a playful spirit and are enjoying their time together just above the flowing creek, floating there like the magical beings they are.

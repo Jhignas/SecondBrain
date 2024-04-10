@@ -1,0 +1,1 @@
+While describing a scene, if you are wondering how better to describe it, think of what the senses of the players would perceive.

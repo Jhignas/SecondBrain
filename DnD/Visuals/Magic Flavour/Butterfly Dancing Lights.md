@@ -1,0 +1,1 @@
+When cast, a bunch of butterflies are created and they start to fly and cluster in the areas where the globes would have been.

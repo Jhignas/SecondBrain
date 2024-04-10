@@ -1,0 +1,1 @@
+a fierce protector creature

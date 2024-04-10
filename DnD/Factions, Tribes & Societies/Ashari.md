@@ -1,0 +1,1 @@
+To protect our world from the dangers of the elemental planes, 4 tribes were created, one to protect each of the [[Elemental Rifts]]; and together they were known as the Ashari. ^f87287

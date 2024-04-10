@@ -1,0 +1,1 @@
+A huge wall or a scripture or an ubiquitous thing is completely covered in butterflies and as the PC places a hand on the structure all the butterflies leave to reveal the thing.

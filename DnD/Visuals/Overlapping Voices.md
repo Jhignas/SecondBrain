@@ -1,0 +1,1 @@
+Multiple statements, however normal, when heard in an overlapping and fast paced fashion create an eerie effect.

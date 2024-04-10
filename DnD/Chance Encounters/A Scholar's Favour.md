@@ -1,0 +1,1 @@
+[[Yefiz Offodel]], a gnome scholar reaches out to the adventuring party asking them for a favour of kind.

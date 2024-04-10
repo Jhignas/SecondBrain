@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "98513d7c2302f0bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f09d064475849cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61935f96b2d09d13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DnD/DM Lessons/Living City.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "525652dfcaa29d23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DnD/Visuals/Water/Purple Ocean.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfd7cfb201b9ee5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "71695ee89b225b93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77de01f0a44725f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6943dbec1fe3abd8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f1cd101c1bed6b40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322.5
+  },
+  "right": {
+    "id": "64871d8a2d71e9a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0306055bef885f33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8bedc5796169798",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DnD/Visuals/Water/Purple Ocean.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71dec8f48313f4f4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DnD/Visuals/Water/Purple Ocean.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f54fd77c7a231d3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7c144c7b2ab7ff09",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DnD/Visuals/Water/Purple Ocean.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "525652dfcaa29d23",
+  "lastOpenFiles": [
+    "SecondBrain",
+    "Guard.md",
+    "Untitled.md",
+    "DnD/Visuals/Water/Purple Ocean.md",
+    "Storytelling/Writing OP (Over Powered) characters.md",
+    "DnD/DM Lessons/Living City.md",
+    "DnD/NPCs/Town Hrisham/Talisso Oakenhull.md",
+    "DnD/Visuals/Ruins",
+    "DnD/Adventure Chronicles/Session 6.md",
+    "DnD/Visuals/Water",
+    "DnD/NPCs/Town Hrisham/Neslie Whistlebrook.md",
+    "DnD/NPCs/Town Hrisham/Leona Talmund.md",
+    "DnD/NPCs/Town Hrisham/Tassilo Oakenhull.md",
+    "DnD/NPCs/Town Hrisham/Bosun Knelling.md",
+    "DnD/Locations/Towns/Hrisham/Knelling Goods & Stuff.md",
+    "DnD/Locations/Towns/Hrisham/Hrisham.md",
+    "DnD/Magic Items/Wand of Magic Missiles.md",
+    "DnD/Magic Items/Pearl of Power Storing.md",
+    "DnD/zz Process For Development/Kingdom.md",
+    "DnD/Adventure Chronicles/Session 5.md",
+    "DnD/NPCs/Kaistubh The Wandering Merchant.png",
+    "DnD/NPCs/Town Hrisham/Yefiz Offodel.png",
+    "DnD/NPCs/Town Hrisham/Yefiz Offodel.md",
+    "DnD/Visuals/Magic Flavour/Butterfly Dancing Lights.md",
+    "DnD/Visuals/Magic Flavour.md",
+    "DnD/Visuals/Magic Flavour",
+    "DnD/Creatures/Sahadoon.md",
+    "DnD/NPCs/Town Hrisham/Analina Blackstone.md",
+    "DnD/Geography/Forests beside the mountains along the cleaved land.md",
+    "DnD/Creatures/Yali.md",
+    "DnD/Creatures/Sahadoon 2.png",
+    "DnD/Creatures/Sahadoon.png",
+    "Storytelling",
+    "DnD/NPCs/Town Hrisham/Garmini Whistlebrook.md",
+    "DnD/NPCs/Majilis The Mushroom Merchant.webp",
+    "Coding/Algorithms",
+    "Coding/System Design",
+    "Coding",
+    "DnD/Customs",
+    "DnD/Chance Encounters",
+    "DnD/Magic Items/Cloak of Billowing.png",
+    "DnD/Visuals",
+    "DnD/Dungeon Master.jpg",
+    "DnD/Common Tokens/cart.jpg",
+    "DnD/Common Tokens/bandit3.jpg",
+    "DnD/Common Tokens/bandit2.jpg",
+    "Untitled.canvas"
+  ]
+}

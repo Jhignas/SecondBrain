@@ -1,0 +1,3 @@
+Opposing voices can always be heard in a nation. Voices from different point of views, from different visions for the future of the land and from different moral standpoints.
+
+These voices, though, are mostly drowned by the louder noise of the people who do not share the integrity of the above ideals and do not feel so intensely about their ideologies as much as they covet the seats of power, as they drool over the piles of coin they dream to hoard.
