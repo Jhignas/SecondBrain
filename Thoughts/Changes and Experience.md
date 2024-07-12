@@ -1,0 +1,5 @@
+We all have heard and most might even believe the concept - "Change is the only constant".
+Thinking about it leads us to realizing that the experience of our lives does not allow us to be the same people and the situations around us keep changing.
+Most of us also have been through traumatic events which have left their scars on us, physical and mental alike. These scars and these experiences change us drastically and create very strong defenses in ourselves to protect us which makes many who deal with us ask the question, few times aloud too, "Who hurt you?".
+The fact, though, is that it is not only the negative events in our lives that lead to this constant thing called change. The very positive and virtuous characteristics in a person also lead to a significant change in oneself, and I am not talking about make one better, just making one different from before.
+Just the act to writing something, or painting or any creative endeavor creates such hard tracks in our minds that even if the person you were before doing that creative endeavor is the person you were in love with, they will change.

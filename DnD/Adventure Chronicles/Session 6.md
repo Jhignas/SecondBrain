@@ -9,4 +9,4 @@ At the [[The Late Night Spark |Tavern]] they learn about a [[Talisso Oakenhull]]
 They meet [[Yefiz Offodel]] who asks for their help and offers 30gp each if they can hold off the threats until he finishes his reading. 
 He also offered [[Talia Starwind|Talia]] a [[Wand of Magic Missiles]] and [[Pearl of Power Storing]]. She chooses the latter.
 
-After this they decide to make their way to the captain of the guard and notice that [[Knelling Goods & Stuff]] is closed on the way. When they make their way to their destination, they see that [[Bosun Knelling]] and [[Kaistubh The Wandering Merchant.png]], the one who they attacked are in a conversation with one who visibly looks like the captain, [[Leona Talmund]].
+After this they decide to make their way to the captain of the guard and notice that [[Knelling Goods & Stuff]] is closed on the way. When they make their way to their destination, they see that [[Bosun Knelling]] and [[Kaistubh The Wandering Merchant.png]], the one who they attacked are in a conversation with one who visibly looks like the captain, [[Gunnora Talmund]].

@@ -1,0 +1,1 @@
+Getting the best solution is as much about the ease of implementation as it is about the getting the solution itself.

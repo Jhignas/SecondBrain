@@ -1,0 +1,1 @@
+Clarify -> Solution -> Pseudocode -> Code -> Dry Run

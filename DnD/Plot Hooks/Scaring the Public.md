@@ -1,0 +1,1 @@
+Someone / thing has scared the public into fearing what is essentially non existent so that they can further their own agenda.
