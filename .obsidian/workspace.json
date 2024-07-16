@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orker/Open Telemetry/General.md",
+                "file": "Orker/Daily Work.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orker/Open Telemetry/General.md",
+                "file": "Orker/Daily Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orker/Open Telemetry/General.md",
+                "file": "Orker/Daily Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orker/Open Telemetry/General.md"
+                "file": "Orker/Daily Work.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "116234eee40c0768",
   "lastOpenFiles": [
-    "Orker/Daily Work.md",
     "Orker/Open Telemetry/General.md",
+    "Orker/Daily Work.md",
     "Orker/Open Telemetry",
     "Orker/Projects/Pure Cube Design/PSHY 505 - Trinity Namishree/Report Week 1 1-7-24 to 7-7-24.md",
     "DnD/DM Lessons/Random Encounters.md",
